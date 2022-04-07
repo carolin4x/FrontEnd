@@ -19,9 +19,6 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Sobre from './paginas/sobre/Sobre';
 
-
-
-
 function App() {
   return (
     <Provider store={store}>
