@@ -22,6 +22,7 @@ import Sobre from './paginas/sobre/Sobre';
 function App() {
   return (
     <Provider store={store}>
+      
       <ToastContainer />
       <Router>
         <Navbar />
